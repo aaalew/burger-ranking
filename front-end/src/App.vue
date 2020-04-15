@@ -1,8 +1,12 @@
 <template>
   <div id="app">
+    <div id="header">
+      <h1>THE BURGER HIERARCHY</h1>
+    </div>
+
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/add">Add</router-link>
     </div>
     <router-view/>
   </div>
