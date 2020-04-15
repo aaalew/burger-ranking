@@ -17,12 +17,12 @@
       <p>Average Cost:</p>
       $<input type="text" placeholder="5" v-model="avgCost">
       <p>Tier:</p>
-      <input type="radio" name="tier" id="tier-1" value="1" v-model="tier">
-      <label for="tier-1">1</label>
-      <input type="radio" name="tier" id="tier-2" value="2" v-model="tier">
-      <label for="tier-2">2</label>
-      <input type="radio" name="tier" id="tier-3" value="3" v-model="tier">
-      <label for="tier-3">3</label>
+      <input type="radio" name="tier" id="high-tier" value="High" v-model="tier">
+      <label for="high-tier">High</label>
+      <input type="radio" name="tier" id="mid-tier" value="Mid" v-model="tier">
+      <label for="mid-tier">Mid</label>
+      <input type="radio" name="tier" id="low-tier" value="Low" v-model="tier">
+      <label for="low-tier">Low</label>
       <br>
       <button type="submit">Submit</button>
     </form>
