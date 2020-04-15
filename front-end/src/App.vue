@@ -2,6 +2,13 @@
   <div id="app">
     <div id="header">
       <h1>THE BURGER HIERARCHY</h1>
+      <i class="fas fa-hamburger"></i>
+      <i class="fas fa-hamburger fa-2x"></i>
+      <i class="fas fa-hamburger fa-3x"></i>
+      <i class="fas fa-hamburger fa-4x"></i>
+      <i class="fas fa-hamburger fa-3x"></i>
+      <i class="fas fa-hamburger fa-2x"></i>
+      <i class="fas fa-hamburger"></i>
     </div>
 
     <div id="nav">
