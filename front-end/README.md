@@ -1,4 +1,4 @@
-# burger-ranking
+# front-end
 
 ## Project setup
 ```
