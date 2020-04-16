@@ -109,7 +109,6 @@ export default {
 
 .prop {
   font-size: 1em;
-  margin-left: 5%;
 }
 
 .trash {

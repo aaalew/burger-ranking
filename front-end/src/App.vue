@@ -16,6 +16,9 @@
       <router-link to="/add">Add</router-link>
     </div>
     <router-view/>
+    <footer>
+      <a href="https://github.com/aaalew/burger-ranking" target="_blank">GitHub</a>
+    </footer>
   </div>
 </template>
 
